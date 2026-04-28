@@ -1,11 +1,7 @@
+import collections
+import json
 import os
 import sys
-
-import json  
-import collections   
-
-
-unused_variable = 42
 
 
 def process_data():
